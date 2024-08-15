@@ -1,0 +1,24 @@
+.
+..
+.editorconfig
+.git
+.gitignore
+More
+README.md
+bash arguments
+bash-arrays
+bash-exercises
+bash-functions
+bash-looping
+bash-special-variables
+bash-string-handling
+bash-trip-signal
+bash-variables
+basic-scritping
+decision-making
+file-out.txt
+file-outpt.txt
+file-redirection
+file.err
+file.sh
+somefile.txt
